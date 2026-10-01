@@ -1,1 +1,1 @@
-##This repository contains all projects I`ve done to earn Python Certification
+# This repository contains all projects I`ve done to earn Python Certification
